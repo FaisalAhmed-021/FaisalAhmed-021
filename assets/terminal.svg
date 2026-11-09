@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 392" width="100%" role="img" aria-label="Terminal: about Faisal Ahmed">
+<defs><clipPath id="c0"><rect x="36" y="84" height="28" width="0"><animate attributeName="width" from="0" to="94" dur="0.40s" begin="0.50s" fill="freeze"/></rect></clipPath><clipPath id="c1"><rect x="36" y="118" height="28" width="0"><animate attributeName="width" from="0" to="137" dur="0.40s" begin="1.15s" fill="freeze"/></rect></clipPath><clipPath id="c2"><rect x="36" y="156" height="28" width="0"><animate attributeName="width" from="0" to="213" dur="0.40s" begin="1.80s" fill="freeze"/></rect></clipPath><clipPath id="c3"><rect x="36" y="190" height="28" width="0"><animate attributeName="width" from="0" to="958" dur="1.76s" begin="2.45s" fill="freeze"/></rect></clipPath><clipPath id="c4"><rect x="36" y="228" height="28" width="0"><animate attributeName="width" from="0" to="159" dur="0.40s" begin="4.46s" fill="freeze"/></rect></clipPath><clipPath id="c5"><rect x="36" y="262" height="28" width="0"><animate attributeName="width" from="0" to="494" dur="0.90s" begin="5.11s" fill="freeze"/></rect></clipPath><clipPath id="c6"><rect x="36" y="300" height="28" width="0"><animate attributeName="width" from="0" to="148" dur="0.40s" begin="6.26s" fill="freeze"/></rect></clipPath><clipPath id="c7"><rect x="36" y="334" height="28" width="0"><animate attributeName="width" from="0" to="461" dur="0.84s" begin="6.91s" fill="freeze"/></rect></clipPath><linearGradient id="tb" x1="0" x2="1"><stop offset="0" stop-color="#0E2A1B"/><stop offset="1" stop-color="#08140E"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="390" rx="16" fill="#050A07" stroke="#22C55E" stroke-opacity=".45"/>
+<path d="M1 17 Q1 1 17 1 H983 Q999 1 999 17 V46 H1Z" fill="url(#tb)"/>
+<circle cx="30" cy="24" r="6" fill="#14532D"/>
+<circle cx="52" cy="24" r="6" fill="#16A34A"/>
+<circle cx="74" cy="24" r="6" fill="#00FF88"/>
+<text x="500.0" y="29" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#7CA58D">faisal@dhaka: ~/about</text>
+<text clip-path="url(#c0)" x="36" y="104" font-family="'Courier New', Consolas, monospace" font-size="18" fill="#00FF88" xml:space="preserve">$ whoami</text>
+<text clip-path="url(#c1)" x="36" y="138" font-family="'Courier New', Consolas, monospace" font-size="18" fill="#C8F5DA" xml:space="preserve">Faisal Ahmed</text>
+<text clip-path="url(#c2)" x="36" y="176" font-family="'Courier New', Consolas, monospace" font-size="18" fill="#00FF88" xml:space="preserve">$ cat education.txt</text>
+<text clip-path="url(#c3)" x="36" y="210" font-family="'Courier New', Consolas, monospace" font-size="18" fill="#C8F5DA" xml:space="preserve">B.Sc. in CSE (Software Engineering) · United International University, Dhaka · 2021-2026</text>
+<text clip-path="url(#c4)" x="36" y="248" font-family="'Courier New', Consolas, monospace" font-size="18" fill="#00FF88" xml:space="preserve">$ ls projects/</text>
+<text clip-path="url(#c5)" x="36" y="282" font-family="'Courier New', Consolas, monospace" font-size="18" fill="#C8F5DA" xml:space="preserve">safe-zone/   campus-connect/   money-planner/</text>
+<text clip-path="url(#c6)" x="36" y="320" font-family="'Courier New', Consolas, monospace" font-size="18" fill="#00FF88" xml:space="preserve">$ echo $FOCUS</text>
+<text clip-path="url(#c7)" x="36" y="354" font-family="'Courier New', Consolas, monospace" font-size="18" fill="#C8F5DA" xml:space="preserve">web apps · privacy-first design · green AI</text>
+<rect x="497" y="337" width="11" height="22" fill="#00FF88" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="0.9s" begin="7.75s" repeatCount="indefinite"/></rect>
+</svg>
