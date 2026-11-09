@@ -6,7 +6,7 @@
 
 ![Location](https://img.shields.io/badge/Dhaka-Bangladesh-0A0F0C?style=for-the-badge&logo=googlemaps&logoColor=00FF88&labelColor=0A0F0C&color=14532D)
 ![UIU](https://img.shields.io/badge/UIU-B.Sc.%20CSE-0A0F0C?style=for-the-badge&logo=academia&logoColor=00FF88&labelColor=0A0F0C&color=14532D)
-![Focus](https://img.shields.io/badge/Focus-Web%20%7C%20Privacy%20%7C%20Green%20AI-0A0F0C?style=for-the-badge&logo=leaflet&logoColor=00FF88&labelColor=0A0F0C&color=14532D)
+![Focus](https://img.shields.io/badge/Focus-Web%20Apps%20%7C%20Privacy-0A0F0C?style=for-the-badge&logo=leaflet&logoColor=00FF88&labelColor=0A0F0C&color=14532D)
 
 <img src="assets/terminal.svg" alt="About me, shown as a terminal" width="92%">
 
@@ -16,11 +16,9 @@
 
 ## 👋 About me
 
-I'm **Faisal Ahmed**, a Computer Science & Engineering graduate (major in Software Engineering) from **United International University, Dhaka**. I like building practical web applications, designing them so users stay in control of their own data, and researching how to make AI cheaper on energy and carbon.
+I'm **Faisal Ahmed**, a Computer Science & Engineering graduate (major in Software Engineering) from **United International University, Dhaka**. I like building practical web applications, designing them so users stay in control of their own data.
 
 - 🛠️ Building: **SAFE ZONE**, an area-wise community platform, and a **local-first money planner** that keeps every user's data on their own device
-- 🌱 Researching: **Green AI**, energy efficiency and carbon cost of neural networks (pruning and quantization)
-- 🧪 Practising: test automation with Selenium, Python logging, Git workflows
 - 🌐 Languages: English and বাংলা
 
 <div align="center"><img src="assets/divider.svg" alt="" width="100%"></div>
@@ -51,29 +49,17 @@ I'm **Faisal Ahmed**, a Computer Science & Engineering graduate (major in Softwa
 
 <div align="center">
 
-<a href="https://github.com/FaisalAhmed-021/SAFEZONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FaisalAhmed-021&repo=SAFEZONE&theme=dark&bg_color=0A0F0C&title_color=00FF88&text_color=C8F5DA&icon_color=00FF88&border_color=14532D&border_radius=12" alt="SAFEZONE">
-</a>
-<a href="https://github.com/FaisalAhmed-021/Campus-Connect">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FaisalAhmed-021&repo=Campus-Connect&theme=dark&bg_color=0A0F0C&title_color=00FF88&text_color=C8F5DA&icon_color=00FF88&border_color=14532D&border_radius=12" alt="Campus-Connect">
-</a>
+<a href="https://github.com/FaisalAhmed-021/SAFEZONE"><img src="assets/project-safezone.svg" width="31%" alt="SAFE ZONE"></a>
+<a href="https://github.com/FaisalAhmed-021/Campus-Connect"><img src="assets/project-campus.svg" width="31%" alt="Campus Connect"></a>
+<img src="assets/project-money.svg" width="31%" alt="Money Planner (private)">
 
 </div>
 
-| Project | What it is |
-| :-- | :-- |
-| **SAFE ZONE** | Area-wise community platform with posts, groups, buy and sell, ride sharing and blood donation, plus user and admin roles |
-| **Campus Connect** | Web platform built for campus life |
-| **Money Planner** | Installable, local-first money planner: income and expenses, calendar, category chart and encrypted backups. Data never leaves the user's device (private repository) |
-
 <div align="center"><img src="assets/divider.svg" alt="" width="100%"></div>
 
-## 📊 GitHub stats
+## 📊 GitHub activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FaisalAhmed-021&show_icons=true&theme=dark&bg_color=0A0F0C&title_color=00FF88&text_color=C8F5DA&icon_color=00FF88&ring_color=00FF88&border_color=14532D&border_radius=12&hide_border=false" alt="GitHub stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalAhmed-021&layout=compact&theme=dark&bg_color=0A0F0C&title_color=00FF88&text_color=C8F5DA&border_color=14532D&border_radius=12&hide_border=false" alt="Top languages">
 
 <img src="https://streak-stats.demolab.com?user=FaisalAhmed-021&background=0A0F0C&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C8F5DA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7CA58D&stroke=14532D&border=14532D&border_radius=12" alt="GitHub streak">
 

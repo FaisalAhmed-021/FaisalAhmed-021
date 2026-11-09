@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 200" width="330" height="200" role="img" aria-label="MONEY PLANNER">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0C2A1B"/><stop offset="1" stop-color="#050A07"/></linearGradient>
+<filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="c"><rect x="2" y="2" width="326" height="196" rx="16"/></clipPath></defs>
+<rect x="2" y="2" width="326" height="196" rx="16" fill="url(#bg)" stroke="#22C55E" stroke-opacity=".45" stroke-width="1.5"/>
+<g clip-path="url(#c)"><path d="M-20 190 Q 60 160 140 185 T 340 175 V 210 H -20 Z" fill="#22C55E" opacity=".18"><animateTransform attributeName="transform" type="translate" values="0 0;-40 0;0 0" dur="6s" repeatCount="indefinite"/></path></g>
+<rect x="2" y="2" width="326" height="196" rx="16" fill="none" stroke="#00FF88" stroke-width="2.5" stroke-dasharray="70 800" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-870" dur="5s" repeatCount="indefinite"/></rect>
+<circle cx="30" cy="31" r="5" fill="#00FF88"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="44" y="37" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="800" fill="#00FF88" letter-spacing="1">MONEY PLANNER</text><rect x="228" y="20" width="80" height="22" rx="11" fill="none" stroke="#22C55E" stroke-opacity=".6"/><text x="268" y="35" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#00FF88">private</text>
+<text x="24" y="84" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#C8F5DA">Local-first money planner: income,</text><text x="24" y="106" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#C8F5DA">expenses, calendar, category chart</text><text x="24" y="128" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#C8F5DA">and encrypted backups. Data stays</text><text x="24" y="150" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#C8F5DA">on the user's own device.</text>
+<text x="24" y="182" font-family="'Courier New', Consolas, monospace" font-size="12.5" fill="#7CA58D">PWA  ·  JavaScript  ·  Laravel</text></svg>
